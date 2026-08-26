@@ -1,0 +1,56 @@
+skill,category
+python,Programming
+java,Programming
+javascript,Programming
+typescript,Programming
+c,Programming
+c++,Programming
+c#,Programming
+html,Web Development
+css,Web Development
+sql,Database
+nosql,Database
+mongodb,Database
+postgresql,Database
+machine learning,AI / Data Science
+deep learning,AI / Data Science
+artificial intelligence,AI / Data Science
+ai,AI / Data Science
+natural language processing,AI / Data Science
+nlp,AI / Data Science
+computer vision,AI / Data Science
+tensorflow,AI / Data Science
+pytorch,AI / Data Science
+scikit-learn,AI / Data Science
+numpy,AI / Data Science
+pandas,AI / Data Science
+matplotlib,AI / Data Science
+huggingface,AI / Data Science
+transformers,AI / Data Science
+llm,Generative AI
+large language models,Generative AI
+rag,Generative AI
+langchain,Generative AI
+langgraph,Generative AI
+qdrant,Vector Database
+vector embeddings,Vector Database
+embeddings,Vector Database
+federated learning,Advanced AI
+multi-agent systems,Advanced AI
+reinforcement learning,AI / Data Science
+git,Tools
+github,Tools
+docker,DevOps
+kubernetes,DevOps
+linux,Operating System
+aws,Cloud
+azure,Cloud
+api,Backend
+rest api,Backend
+fastapi,Backend
+flask,Backend
+django,Backend
+react,Web Development
+angular,Web Development
+node.js,Web Development
+openstreetmap,Tools
