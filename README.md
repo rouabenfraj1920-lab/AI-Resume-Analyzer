@@ -27,6 +27,26 @@ The resume analysis includes:
 - 📜 Certifications
 
 ---
+## 🖥️ Application Preview
+
+### Resume Overview
+
+The application provides a structured overview of the uploaded resume, including the professional summary, projects, skills, education, and certifications.
+
+![AI Resume Analyzer - Resume Overview](screenshots/resume-overview.png)
+
+### RAG-Powered Resume Chat
+
+Users can interact with the uploaded resume through a conversational interface and ask questions about the candidate. The system retrieves relevant information and generates grounded answers using the retrieved context.
+
+![AI Resume Analyzer - RAG Chat](screenshots/resume-chat.png)
+
+---
+
+## 🎥 Demo
+
+[▶️ Watch the application demo](https://drive.google.com/file/d/1BTYVqvp9mLBl8a-ha8-hYsdizNYxhlVm/view?usp=sharing)
+
 
 ## 🧠 How It Works
 
