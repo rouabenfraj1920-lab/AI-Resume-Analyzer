@@ -210,7 +210,6 @@ It helped me understand how different components work together in a practical AI
 - 📈 Add skill-gap analysis
 - 📁 Support multiple resumes
 - 👥 Add recruiter-oriented candidate comparison
-- 🔍 Further improve retrieval and reranking
 
 ---
 
