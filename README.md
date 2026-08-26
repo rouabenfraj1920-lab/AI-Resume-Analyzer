@@ -122,56 +122,7 @@ AI-Resume-Analyzer/
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/rouabenfraj1920-lab/AI-Resume-Analyzer.git
-cd AI-Resume-Analyzer
-```
-
-### 2. Create a virtual environment
-
-```bash
-python -m venv .venv
-```
-
-On Windows:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Configure the Gemini API
-
-Create a `.env` file in the project root:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-⚠️ **Never commit your `.env` file or expose your API key publicly.**
-
-### 5. Run the application
-
-```bash
-streamlit run app.py
-```
-
-The application will be available at:
-
-```text
-http://localhost:8501
-```
-
----
 
 ## 💬 Example Questions
 
